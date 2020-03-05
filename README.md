@@ -17,5 +17,7 @@ Annotation based discovery -> Blocks, field formatter, field widget, image style
 
 Create own plugin manager -> plugin managers can be generated automatically with the following Drupal Console commands:
 Drupal Console -> https://www.drupal.org/docs/8/api/plugin-api/creating-your-own-plugin-manager
+
 generate:plugin:type:annotation
+
 generate:plugin:type:yaml
