@@ -14,3 +14,8 @@ YAML based discovery plugins- menu links, contextual links, local tasks, and loc
 https://www.drupal.org/node/2302893
 
 Annotation based discovery -> Blocks, field formatter, field widget, image styles etc
+
+Create own plugin manager -> plugin managers can be generated automatically with the following Drupal Console commands:
+Drupal Console -> https://www.drupal.org/docs/8/api/plugin-api/creating-your-own-plugin-manager
+generate:plugin:type:annotation
+generate:plugin:type:yaml
